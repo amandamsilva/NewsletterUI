@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="name_id">Name</string>
+    <string name="msg_id">Cadastre-se na nossa Newsletter!</string>
+    <string name="botao_id">inscrever-se</string>
+    <string name="msg_id2">Cadastro realizado com sucesso!</string>
+</resources>
